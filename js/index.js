@@ -31,3 +31,9 @@ const slidingNav = document.querySelectorAll(".nav-link").forEach((e) => {
     });
   });
 
+  window.addEventListener('load', () => {
+    alert ('Welcome to the Fun Bus. Have a seat!')
+});
+
+
+
